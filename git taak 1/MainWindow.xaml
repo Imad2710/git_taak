@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Git_taak_1"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800"
-        Background= "#58A518"
+        Title="Films" Height="450" Width="800" Background= "#58A518"
+
         
         
         
@@ -16,7 +16,17 @@
         >
 
     <Grid>
-		<Image Source="/assets/logo_pxl_digital.png" Width="178" Height="38" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="19,27,0,0"/>
+        <Image Source="/assets/logo_pxl_digital.png"  VerticalAlignment="Top" HorizontalAlignment="Left" Margin="30,10,574,0"/>
+        
+        
+        
+        
+        
+        <Border BorderBrush ="black" BorderThickness="4" Margin="30, 330, 30, 10"/>
+              
+
+
+
 
     </Grid>
 </Window>
