@@ -1,0 +1,103 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>git_taak_1</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net8.0-windows\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net8.0-windows\App.g.cs" />
+    <Compile Include="obj\Debug\net8.0-windows\App.g.i.cs" />
+    <Compile Include="obj\Debug\net8.0-windows\git taak 1.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net8.0-windows\git taak 1.GlobalUsings.g.cs" />
+    <Compile Include="obj\Debug\net8.0-windows\Git-taak-1.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net8.0-windows\Git-taak-1.GlobalUsings.g.cs" />
+    <Compile Include="obj\Debug\net8.0-windows\Git-taak-1_p0v1em3i_wpftmp.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net8.0-windows\Git-taak-1_p0v1em3i_wpftmp.GlobalUsings.g.cs" />
+    <Compile Include="obj\Debug\net8.0-windows\Git-taak-1_u5bajdwz_wpftmp.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net8.0-windows\Git-taak-1_u5bajdwz_wpftmp.GlobalUsings.g.cs" />
+    <Compile Include="obj\Debug\net8.0-windows\Git-taak-1_vhf4ihfw_wpftmp.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net8.0-windows\Git-taak-1_vhf4ihfw_wpftmp.GlobalUsings.g.cs" />
+    <Compile Include="obj\Debug\net8.0-windows\MainWindow.g.cs" />
+    <Compile Include="obj\Debug\net8.0-windows\MainWindow.g.i.cs" />
+    <Compile Include="obj\Release\net8.0-windows\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Release\net8.0-windows\App.g.cs" />
+    <Compile Include="obj\Release\net8.0-windows\Git-taak-1.AssemblyInfo.cs" />
+    <Compile Include="obj\Release\net8.0-windows\Git-taak-1.GlobalUsings.g.cs" />
+    <Compile Include="obj\Release\net8.0-windows\MainWindow.g.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net8.0-windows\Git-taak-1.deps.json" />
+    <Content Include="bin\Debug\net8.0-windows\Git-taak-1.runtimeconfig.json" />
+    <Content Include="obj\Debug\net8.0-windows\git taak 1.designer.deps.json" />
+    <Content Include="obj\Debug\net8.0-windows\git taak 1.designer.runtimeconfig.json" />
+    <Content Include="obj\Debug\net8.0-windows\Git-taak-1.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\net8.0-windows\Git-taak-1.designer.deps.json" />
+    <Content Include="obj\Debug\net8.0-windows\Git-taak-1.designer.runtimeconfig.json" />
+    <Content Include="obj\Debug\net8.0-windows\Git-taak-1.sourcelink.json" />
+    <Content Include="obj\Debug\net8.0-windows\Git-taak-1_p0v1em3i_wpftmp.sourcelink.json" />
+    <Content Include="obj\Debug\net8.0-windows\Git-taak-1_u5bajdwz_wpftmp.sourcelink.json" />
+    <Content Include="obj\Debug\net8.0-windows\Git-taak-1_vhf4ihfw_wpftmp.sourcelink.json" />
+    <Content Include="obj\git taak 1.csproj.nuget.dgspec.json" />
+    <Content Include="obj\Git-taak-1.csproj.nuget.dgspec.json" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net8.0-windows\Git-taak-1.dll" />
+    <None Include="bin\Debug\net8.0-windows\Git-taak-1.exe" />
+    <None Include="bin\Debug\net8.0-windows\Git-taak-1.pdb" />
+    <None Include="Git-taak-1.csproj" />
+    <None Include="Git-taak-1.csproj.user" />
+    <None Include="obj\Debug\net8.0-windows\apphost.exe" />
+    <None Include="obj\Debug\net8.0-windows\git taak 1.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net8.0-windows\git taak 1.assets.cache" />
+    <None Include="obj\Debug\net8.0-windows\git taak 1.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net8.0-windows\git taak 1_MarkupCompile.i.cache" />
+    <None Include="obj\Debug\net8.0-windows\Git-taak-1.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net8.0-windows\Git-taak-1.assets.cache" />
+    <None Include="obj\Debug\net8.0-windows\Git-taak-1.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net8.0-windows\Git-taak-1.dll" />
+    <None Include="obj\Debug\net8.0-windows\Git-taak-1.g.resources" />
+    <None Include="obj\Debug\net8.0-windows\Git-taak-1.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net8.0-windows\Git-taak-1.genruntimeconfig.cache" />
+    <None Include="obj\Debug\net8.0-windows\Git-taak-1.pdb" />
+    <None Include="obj\Debug\net8.0-windows\Git-taak-1_MarkupCompile.cache" />
+    <None Include="obj\Debug\net8.0-windows\Git-taak-1_MarkupCompile.lref" />
+    <None Include="obj\Debug\net8.0-windows\Git-taak-1_p0v1em3i_wpftmp.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net8.0-windows\Git-taak-1_p0v1em3i_wpftmp.assets.cache" />
+    <None Include="obj\Debug\net8.0-windows\Git-taak-1_p0v1em3i_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net8.0-windows\Git-taak-1_u5bajdwz_wpftmp.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net8.0-windows\Git-taak-1_u5bajdwz_wpftmp.assets.cache" />
+    <None Include="obj\Debug\net8.0-windows\Git-taak-1_u5bajdwz_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net8.0-windows\Git-taak-1_vhf4ihfw_wpftmp.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net8.0-windows\Git-taak-1_vhf4ihfw_wpftmp.assets.cache" />
+    <None Include="obj\Debug\net8.0-windows\Git-taak-1_vhf4ihfw_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net8.0-windows\MainWindow.baml" />
+    <None Include="obj\Debug\net8.0-windows\refint\Git-taak-1.dll" />
+    <None Include="obj\Debug\net8.0-windows\ref\Git-taak-1.dll" />
+    <None Include="obj\git taak 1.csproj.nuget.g.props" />
+    <None Include="obj\git taak 1.csproj.nuget.g.targets" />
+    <None Include="obj\Git-taak-1.csproj.nuget.g.props" />
+    <None Include="obj\Git-taak-1.csproj.nuget.g.targets" />
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\Release\net8.0-windows\Git-taak-1.AssemblyInfoInputs.cache" />
+    <None Include="obj\Release\net8.0-windows\Git-taak-1.assets.cache" />
+    <None Include="obj\Release\net8.0-windows\Git-taak-1.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Release\net8.0-windows\Git-taak-1_MarkupCompile.cache" />
+    <None Include="obj\Release\net8.0-windows\Git-taak-1_MarkupCompile.lref" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Release\net8.0-windows\" />
+    <Folder Include="obj\Release\net8.0-windows\refint\" />
+    <Folder Include="obj\Release\net8.0-windows\ref\" />
+  </ItemGroup>
+
+</Project>
